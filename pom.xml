@@ -26,7 +26,7 @@
 
     <swagger.version>2.0.12</swagger.version>
     <swagger-ui.version>3.22.2</swagger-ui.version>
-    <openapi-generator.version>4.0.0</openapi-generator.version>
+    <openapi-generator.version>5.1.0</openapi-generator.version>
     <swagger-annotations.version>1.5.22</swagger-annotations.version>
     <spring-cloud-contract.version>2.1.1.RELEASE</spring-cloud-contract.version>
     <spring-cloud-services.version>2.1.4.RELEASE</spring-cloud-services.version>
